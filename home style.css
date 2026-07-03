@@ -38,7 +38,7 @@ button{
 }
 
 button:hover{
-    background-color:bfb6b6;
+    background-color:#bfb6b6;
     color:black;
     transition:0.5s;
     transform: scale(1.05);
