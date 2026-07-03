@@ -34,7 +34,7 @@ input{
 }
 
 input:hover{
-    background-color:dcdcdc;
+    background-color:#dcdcdc;
     color:black;
     transition:0.5s;
     transform: scale(1.05);
@@ -68,7 +68,7 @@ button{
 }
 
 button:hover{
-    background-color:bfb6b6;
+    background-color:#bfb6b6;
     color:black;
     transition:0.5s;
     transform: scale(1.05);
