@@ -1,2 +1,2 @@
-# account-login-page
+# login-page
 
